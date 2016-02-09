@@ -1,28 +1,18 @@
-name: geniecanvas
-favicon: null
-layout_spectrum: 0.7077888734638691
-typography_spectrum: 0.36727435467764735
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.20866262703202665
-  lightness: 0.7397657784167677
-  saturation: 0.7173695946112275
-  rhythmicContrast: 0.5520394535269588
+    - '#000000'
+    - '#857500'
+    - '#000000'
+    - '#C8B000'
+    - '#88A0C8'
+  brandStrength: 0.295608
+  lightness: 0.739765
+  rhythmicContrast: 0.552039
+  saturation: 0.717369
+cta: {}
+layout_spectrum: 0.658784
+name: geniecanvas
+opengraph: {}
 purpose: []
+typography_spectrum: 0.622466
