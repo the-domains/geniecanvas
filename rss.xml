@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[geniecanvas]]></title>
+        <description><![CDATA[geniecanvas]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Mar 2016 17:17:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cool Chair]]></title>
+            <description><![CDATA[<article><h1>Cool Chair</h1><p>What is going on</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0e9a927407e623655160e4a3217d4ed8ce11143.jpg"></article>]]></description>
+            <link>undefinedcool-chair/index.html</link>
+            <guid isPermaLink="false">96c8a6e6-3385-4435-afc5-3f04ff021b18</guid>
+            <pubDate>Tue, 08 Mar 2016 17:17:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
