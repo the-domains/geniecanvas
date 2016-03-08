@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[geniecanvas]]></title>
         <description><![CDATA[geniecanvas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/geniecanvas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 17:17:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 17:18:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/geniecanvas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/299b6761-4331-4667-8396-3bd32659df54.jpg">]]></description>
+            <link>https://thegrid.ai/geniecanvas/1b9dedd5-6b88-4992-8748-3b274caf3755/index.html</link>
+            <guid isPermaLink="false">1b9dedd5-6b88-4992-8748-3b274caf3755</guid>
+            <pubDate>Tue, 08 Mar 2016 17:18:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cool Chair]]></title>
             <description><![CDATA[<article><h1>Cool Chair</h1><p>What is going on</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0e9a927407e623655160e4a3217d4ed8ce11143.jpg"></article>]]></description>
-            <link>undefinedcool-chair/index.html</link>
+            <link>https://thegrid.ai/geniecanvas/cool-chair/index.html</link>
             <guid isPermaLink="false">96c8a6e6-3385-4435-afc5-3f04ff021b18</guid>
             <pubDate>Tue, 08 Mar 2016 17:17:37 GMT</pubDate>
         </item>
